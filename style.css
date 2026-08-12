@@ -232,7 +232,7 @@ nav a.active .nav-icon {
   transform: translateY(-9px) rotate(-45deg);
 }
 
-/* --- HERO / HOME SECTION --- */
+/* --- HOME SECTION --- */
 .home {
   display: flex;
   flex-direction: row;
